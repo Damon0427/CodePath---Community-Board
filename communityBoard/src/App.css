@@ -1,0 +1,38 @@
+#root {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  background: rgba(52, 50, 50, 0.343);
+}
+
+
+body {
+  background-image: url('./assets/971.jpg');
+  background-size: cover;                      
+  background-position: center;                 
+  background-repeat: no-repeat; 
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3rem; /* Increased font size */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Added shadow */
+}
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.card-container :hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease-in-out;
+}

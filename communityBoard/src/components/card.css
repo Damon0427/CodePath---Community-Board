@@ -1,0 +1,35 @@
+.card {
+    width: 200px;
+    min-width:200px;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    background-color: rgba(38, 32, 32, 0.545);
+}
+
+.card img{
+    width: 180px;
+    height: 180px;
+    min-width: 150px;
+    min-height: 150px;
+    object-fit: contain;
+    margin-bottom: 0.1rem;
+}
+.card button {
+    padding: 0.75rem 1.5rem;       
+    border: none;
+    border-radius: 6px;
+    background-color: #7244e9aa;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;              
+    font-weight: bold;             
+    transition: all 0.2s ease;     
+  }
+
+.card h5 {
+  font-size: 0.8rem;
+  color: #ddd;  
+  font-weight: normal;
+}
