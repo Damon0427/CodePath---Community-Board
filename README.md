@@ -32,10 +32,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-
-![Video Walkthrough](https://i.imgur.com/gk5GWPP.gif)
-
+<div>
+    <a href="https://www.loom.com/share/7a9963fc49da4c6898450abed764080b">
+    </a>
+    <a href="https://www.loom.com/share/7a9963fc49da4c6898450abed764080b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7a9963fc49da4c6898450abed764080b-8201e065b38828f3-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur 
