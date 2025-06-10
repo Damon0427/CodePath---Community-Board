@@ -32,6 +32,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+
 <div>
     <a href="https://www.loom.com/share/7a9963fc49da4c6898450abed764080b">
     </a>
@@ -41,7 +42,7 @@ Here's a walkthrough of implemented required features:
   </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Imgur 
+Video created with Loom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
